@@ -1,0 +1,53 @@
+#content{
+    position: relative;
+    height: 685px;
+}
+div#school-msg{
+    position:absolute;
+    top:320px;
+    left:0;
+}
+div.teacher{
+    width:685px;
+    padding-top:20px;
+    padding-left:10px;
+    position:absolute;
+    right:0;
+    font-weight:lighter;
+}
+.teacher img
+{
+    width: 225px;
+    height: 315px;
+    margin: 20px 20px;
+    float: left;
+}
+.teacher h2
+{
+    font-weight: 600;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+.teacher h3
+{
+    display: inline;
+}
+div#jnNotice
+{
+    float: left;
+}
+#school-msg
+{
+    margin-top: 50px;
+}
+.professional  p
+{
+    float: left;
+    text-align: left;
+    margin-top:10px;
+}
+
+
+
+
